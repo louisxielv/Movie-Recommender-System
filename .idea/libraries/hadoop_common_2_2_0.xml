@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hadoop-common-2.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop-common-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-mapred-0.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
